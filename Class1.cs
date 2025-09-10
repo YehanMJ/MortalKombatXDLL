@@ -8,5 +8,6 @@ namespace MortalKombatXDLL
 {
     public class Class1
     {
+        //branch test
     }
 }
